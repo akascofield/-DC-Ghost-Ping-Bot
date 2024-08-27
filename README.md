@@ -1,6 +1,9 @@
 # DC Ghost Ping Bot
 Ghost Ping Detection Bot for Discord
 
+![Ghost Ping](https://i.imgur.com/zWVWCVm.png)
+![Ghost Ping](https://i.imgur.com/K8VXcfZ.png)
+
 ## Prerequisites
 - [Python](https://www.python.org/downloads/) 3.7+
 - [Discord.py](https://pypi.org/project/discord.py/)
@@ -24,6 +27,8 @@ Ghost Ping Detection Bot for Discord
 - Feature 2: Send detailed log to the specified channel after the transaction.
 - Feature 3: Keep specified user IDs away from ghost pinging.
 - Feature 4: Apply timeout to people who send ghost pings for a specified period of time
+
+
 
 
 
